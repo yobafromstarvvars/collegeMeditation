@@ -1,0 +1,11 @@
+what is Runnable in Java?
+
+what is Intent in "import android.content.Intent"
+
+what is Bundle in "import android.os.Bundle"
+
+what is Handler in "import android.os.Handler"
+
+variable types in Java (more precisely, what is a constant in Java)
+
+what is @Override before functions
