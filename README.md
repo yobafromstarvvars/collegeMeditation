@@ -7,5 +7,5 @@
 <br>
 <a href="mskko2021.mad.hakta.pro/Alegreya.zip">Font</a>
 <br>
-<a href="API: mskko2021.mad.hakta.pro/api">API</a>
+<a href="mskko2021.mad.hakta.pro/api">API</a>
 
