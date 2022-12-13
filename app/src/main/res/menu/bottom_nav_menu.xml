@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_logo"
+        android:title="@string/title_home" />
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/ic_sound"
+        android:title="Music" />
+    <item
+        android:id="@+id/person"
+        android:icon="@drawable/ic_profile"
+        android:title="Person" />
+</menu>
